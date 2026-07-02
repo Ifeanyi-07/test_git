@@ -6,4 +6,5 @@ if hun == "yes":
     print("but come alone")
 else:
     if hun =="no":
-        print("you must be thirsty then")
+        print("you must be thirsty then, drink water")
+        print("do not drink soda")
