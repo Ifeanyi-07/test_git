@@ -4,6 +4,7 @@ hun = input("Are you hungry?: ")
 if hun == "yes":
     print("Come and take cake")
     print("but come alone")
+    print("bring burger if you can")
 else:
     if hun =="no":
         print("you must be thirsty then, drink water")
