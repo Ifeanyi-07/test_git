@@ -1,7 +1,7 @@
 print("i am hungry but i want to loose weight")
 
 hun = input("Are you hungry?: ")
-if hun == "yes" or hun == "Yes":
+if hun == "yes" or hun == "y":
     print("Come and take cake")
     print("but come alone")
     print("bring burger if you can")
